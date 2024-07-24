@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+    font-family: 'Poppins';
+}
+
+.navbar ul{
+    display: flex;
+    align-items: center;
+   
+}
+
+.navbar li{
+    margin: 10px;
+    list-style: none;
+    font-size: 25px;
+}
+
+.navbar a{
+    color: aliceblue !important;
+}

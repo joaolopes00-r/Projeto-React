@@ -1,0 +1,20 @@
+.tecno{
+position: relative;
+right: 350px;
+margin-top: 120px;
+font-family: 'Poppins';
+}
+
+.tecno h1{
+font-size: 60px;
+font-weight: 600;
+margin: 0px;
+}
+
+.tecno h3{
+    font-size: 40px;
+}
+
+.tecno p{
+    font-size: 25px;
+}

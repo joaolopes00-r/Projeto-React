@@ -1,0 +1,36 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+
+}
+
+.footer h2 {
+    margin: 0px 40px 5px 0px;
+    font-weight: 530;
+    font-size: 30px;
+}
+
+
+
+.icons {
+    margin-left: 15%;
+}
+
+.icons ul {
+    display: flex;
+    list-style: none;
+
+}
+
+.icons ul li {
+    margin: 15px;
+}
+
+.iconSize {
+    font-size: 40px;
+}
+
+ 
+
